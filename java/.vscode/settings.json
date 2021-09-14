@@ -1,4 +1,11 @@
 {
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin"
+    "java.project.sourcePaths": [
+        "src",
+        "tst"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "f:\\Programming\\Java\\Dependencies\\junit-4.13.2.jar"
+    ]
 }
