@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "f:\\Programming\\Java\\Dependencies\\junit-4.13.2.jar"
+    ],
+    "java.project.sourcePaths": [
+        "java/tst",
+        "java/src"
+    ]
+}
